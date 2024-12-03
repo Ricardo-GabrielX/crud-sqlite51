@@ -27,8 +27,8 @@ Custom Theme (Cor primária: #99883f)
 
 
 essa é a pagina principal, você pode conferir mais no expo ou na postagem que eu fiz demostrando todas as funcionalidades:
-Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7265052413621911552/
-Expo: https://snack.expo.dev/@gabrielxs/sqlite51
+Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7265052413621911552/ 
+<br>Expo: https://snack.expo.dev/@gabrielxs/sqlite51
 
 ---
 
