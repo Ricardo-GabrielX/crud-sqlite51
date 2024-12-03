@@ -24,6 +24,8 @@ Custom Theme (Cor primária: #99883f)
 
 ## 📸 Preview da Aplicação
 ![image](https://github.com/user-attachments/assets/6cbc99bb-cb54-46dd-9c05-97d2577a9734)
+
+
 essa é a pagina principal, você pode conferir mais no expo ou na postagem que eu fiz demostrando todas as funcionalidades:
 Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7265052413621911552/
 Expo: https://snack.expo.dev/@gabrielxs/sqlite51
