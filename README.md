@@ -34,8 +34,8 @@ essa é a pagina principal, você pode conferir mais no expo ou na postagem que 
 
 ## 🌟 Destaques Técnicos
 
-### Banco de Dados Local:
-Implementação simples e eficiente do SQLite para persistência local. O banco foi usado de maneira assincrona, então eu coloquei um botão que incia o banco quando o usuário clica.
+### Banco de Dados:
+Implementação simples e eficiente do SQLite para persistência local. O banco foi usado de maneira assincrona, então eu coloquei um botão que inicia o banco quando o usuário clica.
 
 ### CRUD Completo:
 O projeto cobre todas as operações essenciais de um CRUD: criar, ler, atualizar e deletar.
