@@ -2,7 +2,7 @@
 Gerenciamento simples de usuários
 
 
-Este projeto é uma aplicação CRUD (Create, Read, Update, Delete) desenvolvida em React Native utilizando o SQLite como banco de dados local. Ele foi criado para gerenciamento básico de usuários, permitindo adicionar, editar, visualizar e excluir informações de maneira prática.
+Este projeto é uma aplicação CRUD (Create, Read, Update, Delete) desenvolvida em React Native utilizando o SQLite como banco de dados. Ele foi criado para gerenciamento básico de usuários, permitindo adicionar, editar, visualizar e excluir informações de maneira prática.
 
 ---
 
