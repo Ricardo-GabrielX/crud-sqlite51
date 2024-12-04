@@ -7,10 +7,10 @@ Este projeto é uma aplicação CRUD (Create, Read, Update, Delete) desenvolvida
 ---
 
 ## 📚 Funcionalidades
-Adicionar usuários: Insira nome, e-mail ou outros detalhes.
-Editar informações: Atualize os dados de qualquer usuário existente.
-Visualizar lista: Mostra uma lista organizada de usuários cadastrados.
-Excluir registros: Remova usuários diretamente da base local.
+<br>Adicionar usuários: Insira nome, e-mail ou outros detalhes.
+<br>Editar informações: Atualize os dados de qualquer usuário existente.
+<br>Visualizar lista: Mostra uma lista organizada de usuários cadastrados.
+<br>Excluir registros: Remova usuários diretamente da base local.
 
 ---
 
